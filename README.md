@@ -42,7 +42,7 @@ Goals:
 
 ## Tools Used
 
-- Google Docs for reording my findings and doumenting the Incident Report Analysis.
+- Google Docs for recording my findings and documenting the Incident Report Analysis.
 
 ## Steps
 
